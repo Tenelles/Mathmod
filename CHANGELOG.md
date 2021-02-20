@@ -1,0 +1,5 @@
+- docs: Added VERSION file
+- added lab1 script
+- redesigned filesystem
+- added report&presentation
+- Init commit
