@@ -84,27 +84,27 @@ header-includes:
 13. Мною были выполнены основные действия с ситемой контроля версий Git. Остальные действия вы можете увидеть в youtube-ролике по ссылке: https://youtu.be/-FsRwkyyG_0
 
 
-![Установка отображения](images/img1.png){ #fig:001 width=100% }
+![Установка отображения](images/report/img1.png){ #fig:001 width=100% }
 
-![Создание проекта](images/img2.png){ #fig:002 width=100% }
+![Создание проекта](images/report/img2.png){ #fig:002 width=100% }
 
-![Инициализация репозитория](images/img3.png){ #fig:003 width=100% }
+![Инициализация репозитория](images/report/img3.png){ #fig:003 width=100% }
 
-![Добавление заголовка](images/img4.png){ #fig:004 width=100% }
+![Добавление заголовка](images/report/img4.png){ #fig:004 width=100% }
 
-![Индексирование изменений](images/img5.png){ #fig:005 width=100% }
+![Индексирование изменений](images/report/img5.png){ #fig:005 width=100% }
 
-![Коммит](images/img6.png){ #fig:006 width=100% }
+![Коммит](images/report/img6.png){ #fig:006 width=100% }
 
-![Индексирование первого изменения файла](images/img7.png){ #fig:007 width=100% }
+![Индексирование первого изменения файла](images/report/img7.png){ #fig:007 width=100% }
 
-![Изменение проиндексированного файла](images/img8.png){ #fig:008 width=100% }
+![Изменение проиндексированного файла](images/report/img8.png){ #fig:008 width=100% }
 
-![Коммит файла, у которого есть как проиндексированные, так и непроиндексированные изменения](images/img9.png){ #fig:009 width=100% }
+![Коммит файла, у которого есть как проиндексированные, так и непроиндексированные изменения](images/report/img9.png){ #fig:009 width=100% }
 
-![Окончательная индексация и коммит](images/img10.png){ #fig:010 width=100% }
+![Окончательная индексация и коммит](images/report/img10.png){ #fig:010 width=100% }
 
-![История коммитов](images/img11.png){ #fig:011 width=100% }
+![История коммитов](images/report/img11.png){ #fig:011 width=100% }
 
 
 # Выводы
