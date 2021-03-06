@@ -32,8 +32,3 @@ p2 = plot(plotX.(s2.u), plotY.(s2.u))
 p3 = plot(plotX.(s3.u), plotY.(s3.u))
 
 plot(p1, p2, p3)
-
-# x'' + Ax' + Bx = C
-
-# x' = y
-# y' = C - Ax' - Bx
