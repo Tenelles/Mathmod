@@ -1,4 +1,4 @@
-#### 1.9.0 (2021-03-06)
+#### 3.1.0 (2021-03-11)
 
 ##### Documentation Changes
 
@@ -21,7 +21,7 @@
 
 *  removed comments ([3271076f](https://github.com/Tenelles/Mathmod/commit/3271076f53a3dc39fc170bcaeda8f40b764b5e9a))
 
-#### 1.8.0 (2021-02-27)
+#### 2.1.0 (2021-02-27)
 
 ##### Documentation Changes
 
