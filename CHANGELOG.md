@@ -1,3 +1,20 @@
+#### 3.1.0 (2021-03-22)
+
+##### Chores
+
+*  fix lab4 ([1485d39c](https://github.com/Tenelles/Mathmod/commit/1485d39c7ee08c54125600f92c124d4a603050b4))
+
+##### Documentation Changes
+
+*  added lab6 report+presentation ([b9bd783a](https://github.com/Tenelles/Mathmod/commit/b9bd783aee3883eb9591b38e78dd4d8b6dcee884))
+*  added lab5 report+presentation ([d86eb565](https://github.com/Tenelles/Mathmod/commit/d86eb5659449a1441c55b4a5e354940c3ce08a39))
+*  updated changelog ([4dc48b62](https://github.com/Tenelles/Mathmod/commit/4dc48b629f5a0e937a8ec268008a3a58fabb53a9))
+
+##### New Features
+
+*  added lab6 script ([449b8669](https://github.com/Tenelles/Mathmod/commit/449b8669465ef2f01eeac5138b31104f59bbf5b7))
+*  added lab5 code ([96bd981d](https://github.com/Tenelles/Mathmod/commit/96bd981d7048afd92d5cf98ae6fd1d8121426c69))
+
 #### 3.1.0 (2021-03-11)
 
 ##### Documentation Changes
